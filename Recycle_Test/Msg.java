@@ -2,6 +2,7 @@ package com.example.java.api25.Recycle_Test;
 
 /**
  * Created by 59575 on 2017/4/13.
+   this is the Msg Class 
  */
 
 public class Msg {
